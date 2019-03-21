@@ -1,0 +1,35 @@
+{
+  "names": [
+    "Jefferson",
+    "Camila",
+    "Igor",
+    "Flavio",
+    "Flávia"
+  ],
+  "adjectives": [
+    "Bonito",
+    "Bonita",
+    "Estranho",
+    "Estranha",
+    "Vencedor",
+    "Vencedora"
+  ],
+  "blackList": [
+    "Camila Bonito",
+    "Flávia Bonito",
+    "Jefferson Bonita",
+    "Igor Bonita",
+    "Flavio Bonita",
+    "Camila Estranho",
+    "Flávia Estranho",
+    "Jefferson Estranha",
+    "Igor Estranha",
+    "Flavio Estranha",
+    "Camila Vencedor",
+    "Flávia Vencedor",
+    "Jefferson Vencedora",
+    "Igor Vencedora",
+    "Flavio Vencedora"
+  ],
+  "used": []
+}
